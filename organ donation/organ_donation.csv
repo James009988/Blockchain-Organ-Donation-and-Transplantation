@@ -1,0 +1,17 @@
+id,name,age,blood_type,organs,contact_info,password,location,chronic_diseases,infectious_diseases,cancer_history,current_medications
+1,shamm,1,A+,"Kidney,Liver",123232323,59bb9c6130cd0b6133297898af06cf94024fb37f99bd8d8a34cad0aca29d6dd2,namaglore,Diabetes,Tuberculosis,Colon Cancer,Diabetic Medications
+2,Gopi,20,A+,"Kidney,Liver,Pancreas",123232323,ead4bbe06e1f7d3284793ef97749f80cf5ef3af9c0d57f77de4b8a665001ad66,namaglore,Asthma,Hepatitis B,Colon Cancer,Painkillers
+3,hello,20,A+,"Heart,Kidney",12233312222,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,123,None,None,None,None
+4,shreyanth,20,A+,"Liver,Lung",12345689,6284020cf924677ed111509f21b45066d401341a2d7d7e36af484748fbc0e705,banaglore,None,None,None,None
+5,shreyanth,20,A+,"Liver,Lung",12345689,6284020cf924677ed111509f21b45066d401341a2d7d7e36af484748fbc0e705,banaglore,None,None,None,None
+6,shreyanth,20,A+,"Liver,Lung",12345689,6284020cf924677ed111509f21b45066d401341a2d7d7e36af484748fbc0e705,banaglore,Hypertension,None,Liver Cancer,None
+7,ram,20,A+,"Liver,Lung",12345689,a631f4488a457da27b4a64dc8f2d85085b50ff568be99125cf6f8f45c759878e,banaglore,Hypertension,Hepatitis B,Liver Cancer,Antibiotics
+8,abc,26,B+,"Heart,Liver",12323232212,ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad,bang,Diabetes,Hepatitis B,None,Blood Pressure Meds
+9,shreyanth,20,A+,"Liver,Kidney,Lung",123232322,6284020cf924677ed111509f21b45066d401341a2d7d7e36af484748fbc0e705,bengaluru,Hypertension,Hepatitis B,Liver Cancer,Antibiotics
+10,admin1,16,A+,"Heart,Pancreas",121212121,25f43b1486ad95a1398e3eeb3d83bc4010015fcc9bedb35b432e00298d5021f7,KA,Heart Disease,HIV,Breast Cancer,Diabetic Medications
+11,gopiii,30,A+,"Liver,Kidney,Pancreas,Lung,Heart",1223232232,57f25122b6d4b79d74c4939738c68676c686799f85e5c9457b7fa818c9b635e1,banglore,None,None,None,None
+12,abc,40,B+,"Heart,Kidney,Lung,Liver,Pancreas",12121212121,ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad,bangalore,None,None,None,None
+13,shammm,20,O-,"Liver,Lung",8989898989,6ae68f5b257e494c1aacff92b9fdf40454bf07f8227a4ca0c72fd29f0dfca38a,bng,Diabetes,Syphilis,Liver Cancer,Antibiotics
+14,shamm,30,AB+,"Liver,Lung",10101010101,59bb9c6130cd0b6133297898af06cf94024fb37f99bd8d8a34cad0aca29d6dd2,bangalore,Diabetes,Hepatitis C,None,Antibiotics
+15,abc,23,B+,"Lung,Liver",1212121212,ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad,bang,Diabetes,Hepatitis C,None,None
+16,xyz,80,O+,"Liver,Lung",21212121212,3608bca1e44ea6c4d268eb6db02260269892c0b42b86bbf1e77a6fa16c3c9282,bang,applo,Hypertension,None,None,None
